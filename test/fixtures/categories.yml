@@ -1,0 +1,34 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+# one:
+#   column: value
+#
+# two:
+#   column: value
+one:
+  id: 1
+  name: ALL
+two:
+  id: 2
+  name: People
+  parent_id: 1
+three:
+  id: 3
+  name: Animals
+  parent_id: 1
+four:
+  id: 4
+  name: Places
+  parent_id: 1
+five:
+  id: 5
+  name: Things
+  parent_id: 1
+six:
+  id: 6
+  name: Friends
+  parent_id: 2
+seven: 
+  id: 7
+  name: Family
+  parent_id: 2

@@ -1,0 +1,9 @@
+<h1>Show Photos</h1>
+<p>filename: <%= @photo.filename %></p>
+
+<%= image_tag @photo.image.url %>
+<br />
+<div id=sampel>
+<%= link_to 'Edit', edit_photo_path(@photo) %> |
+<%= link_to 'Back', photos_path %>
+</div>

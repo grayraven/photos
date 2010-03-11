@@ -1,0 +1,34 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+# one:
+#   column: value
+#
+# two:
+#   column: value
+one:
+  id: 1
+  filename: balaboa_park.jpg
+two:
+  id: 2
+  filename: camel.jpg
+three:
+  id: 3
+  filename: cat_and_candles.jpg
+four:
+  id: 4
+  filename: hut.jpg
+five:
+  id: 5
+  filename: mosaic.jpg
+six:
+  id: 6
+  filename: pjlar_bear.jpg
+seven:
+  id: 7
+  filename: police.jpg
+eight:
+  id: 8
+  filename: sleeping_dog.jpg
+nine:
+  id: 9
+  filename: stairs.jpg

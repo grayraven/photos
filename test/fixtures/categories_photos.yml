@@ -1,0 +1,35 @@
+<% for i in 1..9 %>
+<%= i %>:
+  category_id: 1
+  photo_id: <%= i %>
+<% end %>
+10:
+  category_id: 4
+  photo_id: 1
+11:
+  category_id: 3
+  photo_id: 2
+12:
+  category_id: 3
+  photo_id: 3
+13:
+  category_id: 4
+  photo_id: 4
+14:
+  category_id: 5
+  photo_id: 5
+15:
+  category_id: 3
+  photo_id: 6
+16:
+  category_id: 2
+  photo_id: 7
+17:
+  category_id: 4
+  photo_id: 8
+18:
+  category_id: 4
+  photo_id: 9
+19:
+  category_id: 4
+  photo_id: 7
